@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dhairya_Rupala_Atlan/static/css/main.a7dd9250.chunk.css",
+    "main.js": "/Dhairya_Rupala_Atlan/static/js/main.7fa1b8c3.chunk.js",
+    "main.js.map": "/Dhairya_Rupala_Atlan/static/js/main.7fa1b8c3.chunk.js.map",
+    "runtime-main.js": "/Dhairya_Rupala_Atlan/static/js/runtime-main.67ec9fa1.js",
+    "runtime-main.js.map": "/Dhairya_Rupala_Atlan/static/js/runtime-main.67ec9fa1.js.map",
+    "static/js/2.07875b1a.chunk.js": "/Dhairya_Rupala_Atlan/static/js/2.07875b1a.chunk.js",
+    "static/js/2.07875b1a.chunk.js.map": "/Dhairya_Rupala_Atlan/static/js/2.07875b1a.chunk.js.map",
+    "static/js/3.e30017ab.chunk.js": "/Dhairya_Rupala_Atlan/static/js/3.e30017ab.chunk.js",
+    "static/js/3.e30017ab.chunk.js.map": "/Dhairya_Rupala_Atlan/static/js/3.e30017ab.chunk.js.map",
+    "index.html": "/Dhairya_Rupala_Atlan/index.html",
+    "static/css/main.a7dd9250.chunk.css.map": "/Dhairya_Rupala_Atlan/static/css/main.a7dd9250.chunk.css.map",
+    "static/js/2.07875b1a.chunk.js.LICENSE.txt": "/Dhairya_Rupala_Atlan/static/js/2.07875b1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67ec9fa1.js",
+    "static/js/2.07875b1a.chunk.js",
+    "static/css/main.a7dd9250.chunk.css",
+    "static/js/main.7fa1b8c3.chunk.js"
+  ]
+}
