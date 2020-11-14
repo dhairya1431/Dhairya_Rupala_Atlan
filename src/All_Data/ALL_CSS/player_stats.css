@@ -1,0 +1,37 @@
+.forall {
+    text-align: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 150px;
+    border-bottom: 1px solid lightblue;
+    
+}
+.for_div {
+    width: 488px;
+    background-color: darkseagreen;
+}
+.player_list {
+    overflow: auto;
+    height: 478px;
+}
+.for_details {
+    text-align: left;
+    margin-left: 109px;
+}
+.text_box_text {
+    text-align: left;
+    margin-right: 5px;
+    font-size: 23px;
+    margin-top: 10px;
+    font-weight: 600;
+    padding-top: 2px;
+ }
+ .input_text {
+     border-radius: 8px;
+     padding: 3px;
+ }
+.div_search {
+    padding-bottom: 6px;
+    padding-left: 40px;
+    border-bottom: 2px solid black;
+ }

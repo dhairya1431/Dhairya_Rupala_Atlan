@@ -1,0 +1,35 @@
+.teams { 
+    width : 488px;
+    background-color: darkseagreen;
+    border-right: 2px solid;
+ }
+ .team_list {
+    overflow: auto;
+    height: 478px;
+ }
+ .teams_eachteam {
+    text-align: left;
+    padding-left: 54px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 22px;
+    margin-top: 10px;
+    border-bottom: 1px solid lightblue;
+ }
+ .text_box_text {
+    text-align: left;
+    margin-right: 2px;
+    font-size: 23px;
+    margin-top: 10px;
+    font-weight: 600;
+    padding-top: 2px;
+ }
+ .input_text {
+     border-radius: 8px;
+     padding: 3px;
+ }
+ .div_searchh {
+    padding-bottom: 6px;
+    padding-left: 40px;
+    border-bottom: 2px solid black;
+ }

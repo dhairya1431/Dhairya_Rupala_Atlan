@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.ShortBox {
+  border: 2px solid black;
+  width: 1465px;
+  height: 520px;
+  margin-top: 40px;
+  margin-left: 20px;
+  display: flex;
+}
+
+.Welcome_text {
+  margin-top: 3px;
+  font-size: 45px;
+  color: currentcolor;
+  margin-bottom: 10px;
+  border-bottom: 2px solid;
+  margin-left: 88px;
+  margin-right: 88px;
+}

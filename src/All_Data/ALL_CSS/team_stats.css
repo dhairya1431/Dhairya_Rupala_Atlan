@@ -1,0 +1,22 @@
+.for_name {
+    border-bottom: 1px solid red;
+    padding-bottom: 6px;
+}
+.forAll {
+    width: 488px;
+    background-color: darkseagreen;
+    border-right: 2px solid
+}
+.selected_team{
+    border-bottom: 2px solid;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    font-size: 21px;
+}
+.wrapper {
+    overflow: auto;
+    height: 466px
+}
