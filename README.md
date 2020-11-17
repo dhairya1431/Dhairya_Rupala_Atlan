@@ -1,3 +1,13 @@
+# Atlan-Frontend-Internship-Task
+
+In this Task - i was provided with some data related to IPL.
+
+# Challenge -
+
+We had to build a clean UI with React.Js and had implement to some functionality of SEARCH & FILTER on the given data.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
